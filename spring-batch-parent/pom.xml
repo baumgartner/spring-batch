@@ -335,16 +335,16 @@
 				<enabled>false</enabled>
 			</snapshots>
 		</pluginRepository>
-                <pluginRepository>
-                        <id>eclipse.virgo.build.bundles.release</id>
-                        <name>Eclipse Virgo Build</name>
-                        <url>http://build.eclipse.org/rt/virgo/maven/bundles/release</url>
-                </pluginRepository>
-                <pluginRepository>
-                        <id>com.springsource.repository.bundles.external</id>
-                        <name>SpringSource Enterprise Bundle Repository - External Bundle Releases</name>
-                        <url>http://repository.springsource.com/maven/bundles/external</url>
-                </pluginRepository>
+		<pluginRepository>
+		        <id>eclipse.virgo.build.bundles.release</id>
+		        <name>Eclipse Virgo Build</name>
+		        <url>http://build.eclipse.org/rt/virgo/maven/bundles/release</url>
+		</pluginRepository>
+		<pluginRepository>
+		        <id>com.springsource.repository.bundles.external</id>
+		        <name>SpringSource Enterprise Bundle Repository - External Bundle Releases</name>
+		        <url>http://repository.springsource.com/maven/bundles/external</url>
+		</pluginRepository>
 	</pluginRepositories>
 	<reporting>
 		<plugins>
