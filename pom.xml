@@ -423,8 +423,8 @@
 			<build>
 				<plugins>
 					<plugin>
-						<groupId>com.springsource.bundlor</groupId>
-						<artifactId>com.springsource.bundlor.maven</artifactId>
+						<groupId>org.eclipse.virgo.bundlor</groupId>
+						<artifactId>org.eclipse.virgo.bundlor.maven</artifactId>
 						<executions>
 							<execution>
 								<id>bundlor-manifest</id>
